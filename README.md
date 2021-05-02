@@ -1,6 +1,6 @@
-# flutter_app
+# flutter_bootcamp
 
-A new Flutter application.
+First app in Flutter.
 
 ## Getting Started
 
